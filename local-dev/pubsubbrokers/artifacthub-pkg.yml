@@ -1,0 +1,22 @@
+version: 0.1.0
+name: dapr-pubsubbrokers
+displayName: Dapr pub/sub brokers
+createdAt: "2024-05-19T10:51:00Z"
+description: A lightweight container running the redis image and a Redis Dapr Pub/Sub component for development purposes
+license: Apache-2
+homeURL: https://docs.radapp.io/guides/recipes/overview/
+appVersion: 0.1.0
+keywords:
+    - dapr
+    - redis
+    - pub/sub
+    - radius
+    - recipe
+links:
+    - name: website
+      url: https://radapp.io
+provider:
+    name: Radius maintainers
+changes:
+  - kind: added
+    description: Initial release

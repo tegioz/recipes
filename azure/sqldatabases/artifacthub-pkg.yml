@@ -1,0 +1,22 @@
+version: 0.1.0
+name: azure-sqldatabases
+displayName: Azure SQL databases
+createdAt: "2024-05-19T10:51:00Z"
+description: An Azure SQL server resource with a configurable size and SKU
+license: Apache-2
+homeURL: https://docs.radapp.io/guides/recipes/overview/
+appVersion: 0.1.0
+keywords:
+    - azure
+    - sql
+    - database
+    - radius
+    - recipe
+links:
+    - name: website
+      url: https://radapp.io
+provider:
+    name: Radius maintainers
+changes:
+  - kind: added
+    description: Initial release
