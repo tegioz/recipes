@@ -7,16 +7,18 @@ license: Apache-2
 homeURL: https://docs.radapp.io/guides/recipes/overview/
 appVersion: 0.1.0
 keywords:
-    - aws
-    - sql
-    - database
-    - radius
-    - recipe
+  - aws
+  - sql
+  - database
+  - radius
+  - recipe
 links:
-    - name: website
-      url: https://radapp.io
+  - name: website
+    url: https://radapp.io
+install: |
+  Installation instructions in markdown format go here :)
 provider:
-    name: Radius maintainers
+  name: Radius maintainers
 changes:
   - kind: added
     description: Initial release
